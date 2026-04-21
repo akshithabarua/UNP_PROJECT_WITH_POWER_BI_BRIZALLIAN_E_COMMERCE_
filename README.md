@@ -1,1 +1,5 @@
-# UNP_PROJECT_WITH_POWER_BI_BRIZALLIAN_E_COMMERCE_
+In this project, I worked on analyzing Brazilian e-commerce sales data to understand how customers buy products online and to find useful business insights. I used Microsoft Power BI to study the data and present it in an easy-to-understand way.
+The dataset included important details like orders, product categories, payment methods, customer locations, and delivery time. First, I cleaned and organized the data, and then I created interactive dashboards in Power BI to make the information clear and useful.
+I focused on key metrics such as total sales, number of orders, average delivery time, and customer satisfaction. I also used charts like bar graphs, line charts, and slicers so that users can filter the data by region or time period easily.
+From the analysis, I found out which product categories are in high demand, which regions have the most sales, and how delivery performance changes. It also helped in understanding customer buying behavior and seasonal trends in sales.
+Overall, this project shows how Power BI can be used to turn raw data into simple and useful insights. These insights can help businesses improve their work, manage deliveries better, and give a better experience to customers.
